@@ -5,7 +5,7 @@ public class sum {
         int a=10;
         int b=33;
 
-        System.out.println(a+b);
+        System.out.println("This is the sum :"+a+b);
 
     }
 }
